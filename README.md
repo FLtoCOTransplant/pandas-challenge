@@ -17,3 +17,4 @@ To come up with these three trends I will look at the following
 
 - What are the most profitable items
 
+![](images/Pymoli.jpg)
